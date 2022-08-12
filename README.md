@@ -1,2 +1,2 @@
-# devops
-DevOps Project
+# devops-hello-world
+DevOps Hello World
